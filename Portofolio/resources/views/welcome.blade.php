@@ -285,6 +285,9 @@
           <a class="btn btn-outline-light btn-social mx-1" href="https://wa.me/6282117620764">
             <i class="fab fa-fw fa-whatsapp"></i>
           </a>
+          <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/andaracreative">
+            <i class="fab fa-fw fa-github"></i>
+          </a>
         </div>
 
         <!-- Footer About Text -->
